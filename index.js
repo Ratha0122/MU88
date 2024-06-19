@@ -1,12 +1,12 @@
 document.getElementsByClassName('header')[0].innerHTML = `
-    <div class=" sticky w-full top-0 bg-[#2b1047] text-white ">
+    <div class=" w-full bg-[#2b1047] text-white ">
         <div class="container p-4">
             <div class=" flex justify-between item-center gap-4">
                 <div class="flex justify-center gap-8 items-center">
 
-                    <div class="logo ">
+                    <a href="./index.html" class="logo ">
                         <img src="./images/log-mu88.png " alt="logo" class="w-[160px] h-full ">
-                    </div>
+                    </a>
 
 
                     <div class="navigation text-[14px] hidden md:block">
@@ -15,6 +15,7 @@ document.getElementsByClassName('header')[0].innerHTML = `
                             <li ><a href="./HƯỚNG DẪN.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">HƯỚNG DẪN</a></li>
                             <li ><a href="./THỂ THAO.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">THỂ THAO</a></li>
                             <li ><a href="./TIN TỨC.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">TIN TỨC</a></li>
+                             <li ><a href="./soi-keo-nhan-dinh.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">SOI KÈO – NHẬN ĐỊNH </a></li>
                         </ul>
                     </div>
                 </div>
@@ -116,5 +117,5 @@ burgerMenu.addEventListener('click',function(){
 
 
 function url() {
-    location.href = "https://www.hay88.one/?inviteCode=8736162"
+    location.href = "https://www.hay88.one/?inviteCode=9003171"
 }
