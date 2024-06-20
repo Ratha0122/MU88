@@ -15,12 +15,11 @@ document.getElementsByClassName('header')[0].innerHTML = `
                             <li ><a href="./HƯỚNG DẪN.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">HƯỚNG DẪN</a></li>
                             <li ><a href="./THỂ THAO.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">THỂ THAO</a></li>
                             <li ><a href="./TIN TỨC.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">TIN TỨC</a></li>
-                             <li ><a href="./soi-keo-nhan-dinh.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">SOI KÈO – NHẬN ĐỊNH </a></li>
+                             <li ><a href="./x0-so.html" class="hover:border-b-[3px] hover:border-red-600 duration-200">XỔ SỐ </a></li>
                         </ul>
                     </div>
                 </div>
-
-               
+   
                 <div  class="hidden md:block">
                     <div class=" btns flex gap-4 justify-center item-center *:px-2 *:py-2 *:bg-[#B82B00]   *:rounded-md font-medium">
                         <button onclick=url() class=" hover:border hover:border-[#00A2A2] hover:text-black hover:bg-white duration-700">ĐĂNG KÝ</button>
@@ -41,6 +40,7 @@ document.getElementsByClassName('header')[0].innerHTML = `
                         <li class="border-b-2 hover:bg-gray-500 duration-700"><a href="./HƯỚNG DẪN.html">HƯỚNG DẪN</a></li>
                         <li class="border-b-2 hover:bg-gray-500 duration-700"><a href="./THỂ THAO.html">THỂ THAO</a></li>
                         <li class="border-b-2 hover:bg-gray-500 duration-700"><a href="./TIN TỨC.html">TIN TỨC</a></li>
+                        <li class="border-b-2 hover:bg-gray-500 duration-700"><a href="./x0-so.html">XỔ SỐ </a></li>
                     </ul>
                 </div>
            </div>
